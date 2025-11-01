@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environments
+env/
+venv/
+.venv/
+
+# Python packaging
+*.egg-info/
+build/
+dist/
+
+# Data files (uncomment if you don't want to push large CSVs)
+# *.csv
+# processed_*.csv
+
+# VS Code
+.vscode/
+
+# Test cache
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
